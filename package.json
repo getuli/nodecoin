@@ -1,0 +1,19 @@
+{
+  "name": "nodecoin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch index.js "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@fastify/cors": "^10.0.1",
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "fastify": "^5.1.0"
+  }
+}
